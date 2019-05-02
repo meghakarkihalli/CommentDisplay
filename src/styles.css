@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table,
+tr,
+td,
+th {
+  border-style: solid;
+  padding: 10px;
+  border-collapse: collapse;
+}
